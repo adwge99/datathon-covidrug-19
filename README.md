@@ -1,2 +1,14 @@
-# datathon-covidrug-19
+# Datathon-covidrug-19
 Datathon - challange 
+
+<img width="521" alt="datathon" src="https://user-images.githubusercontent.com/99187902/152850698-f5c3d188-21d7-4b90-8d5c-c8fcbd09f008.png">
+
+# Résumé
+En décembre 2019, une maladie infectieuse zoonotique causée par le coronavirus SARS-CoV-2, a émergé à Wuhan (Chine). Elle porte le nom de COVID-19 et sa contagiosité a généré une véritable pandémie (à ce jour : pratiquement 2 millions de cas pour au moins 120 000 morts). Malheureusement, aucun traitement spécifique ni vaccin ne sont disponibles. Compte-tenu des temps de développement très longs pour les médicaments (10 à 15 ans dans certains cas), une stratégie d’urgence de la recherche doit être entreprise. Une des stratégies possible, est le repositionnement de médicaments déjà utilisés en clinique, permettant d’avoir notamment beaucoup de données sur sa sécurité et aussi son industrialisation, surtout dans un contexte pandémique. Cette stratégie est notamment évaluée en France avec l’essai Clinique DISCOVERY (repositionnement de molécules antivirales utilisées contre Ebola et le VIH ou encore de l’hydroxychloroquine). Cette stratégie de l’urgence peut encore être dopée par l’utilisation de l’outil bioinformatique combiné à de l’intelligence artificielle. Ainsi, ces approches permettent d’explorer d’importantes bases de données qui combinent des informations complexes sur la structure des molécules, leur efficacité et leurs capacités à interagir avec les cibles du SARS-CoV-2. Ces différentes explorations poursuivent l’objectif de faire ressortir dans des délais compatibles avec la résolution d’une crise sanitaire de grande ampleur, des approches thérapeutiques potentiellement pertinentes dans la prise en charge du COVID-19. Ces approches in silico permettent également d’identifier des molécules pouvant être des molécules à la base de nouveaux développement, voire directement de candidats médicaments contre le COVID-19. Parmi les cibles identifiées, nous pouvons citer la protéine S, et les protéases principale et papain-like. Ces cibles seront donc particulièrement étudiées pendant la durée du datathon avec des outils bioinformatiques utilisant notamment de l’intelligence artificielle dans le but d’obtenir un pipeline de médicaments / candidats médicaments.
+
+# Objectif principal : 
+Créer un pipeline de molécules issues du repositionnement de médicaments déjà sur le marchés (ou essais cliniques, arrêtés ou pas) et de molécules identifiées dans des bases de donnée en tant que composés lead / candidats médicaments. Ce pipeline devra être caractérisé au maximum à l’aide des approches in silico permettant d’anticiper l’efficacité, la sécurité et le potentiel de recherche des molécules identifiées.
+
+
+# Données : 
+Structures 3D de petites molécules organiques, structures 3D des cibles de SARS-CoV-2, données pharmacologiques diverses, mots-clés en lien avec le COVID-19.
