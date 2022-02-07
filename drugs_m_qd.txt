@@ -1,0 +1,63 @@
+# Proteins
+DB01601 Lopinavir
+DB00503 Ritonavir
+DB01611 Hydroxychloroquine
+DB14761 Remdesivir
+DB12466 Favipiravir
+DB00068 Interferon beta-1b
+DB11676 Galidesivir
+DB00608 Chloroquine
+DB01264 Darunavir
+DB15623 TMC-310911
+DB00005 Etanercept
+DB00008 Peginterferon alfa-2a
+DB00011 Interferon alfa-n1
+DB00018 Interferon alfa-n3
+DB00022 Peginterferon alfa-2b
+DB00034 Interferon alfa-2a, Recombinant
+DB00037 Interferon alfa-2a, Recombinant
+DB00051 Adalimumab
+DB00060 Interferon beta-1a
+DB00065 Infliximab
+DB00069 Interferon alfacon-1
+DB00084 Interferon alfa-n1
+DB00105 Interferon alfa-2b
+DB00143 Glutathione
+DB00163 Vitamin E
+DB00220 Nelfinavir
+DB00224 Indinavir
+DB00239 Oxiconazole
+DB00431 Lindane
+DB00531 Cyclophosphamide
+DB00532 Mephenytoin
+DB00564 Carbamazepine
+DB00682 Warfarin
+DB00701 Amprenavir
+DB00754 Ethotoin
+DB00849 Methylphenobarbital
+DB00852 Pseudoephedrine
+DB00932 Tipranavir
+DB01026 Ketoconazole
+DB01041 Thalidomide
+DB01072 Atazanavir
+DB01110 Miconazole
+DB01127 Econazole
+DB01174 Phenobarbital
+DB01181 Ifosfamide
+DB01229 Paclitaxel
+DB01232 Saquinavir
+DB01248 Docetaxel
+DB01296 Glucosamine
+DB01319 Fosamprenavir
+DB01361 Troleandomycin
+DB01407 Clenbuterol
+DB01411 Pranlukast
+DB01427 Amrinone
+DB01708 Prasterone
+DB01834 (9R,10R)-9-(S-glutathionyl)-10-hydroxy-9,10-dihydrophenanthrene
+DB01892 Hyperforin
+DB01942 Formic acid
+DB02165 Zinc trihydroxide
+DB02325 Isopropyl alcohol
+DB02458 S-(2,4-dinitrophenyl)glutathione
+DB02789 Pregnenolone
